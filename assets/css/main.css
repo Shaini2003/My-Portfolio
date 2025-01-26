@@ -1518,8 +1518,8 @@ section,
 .work-img {
   max-inline-size: 600px;
   transition: 0.6s all;
-  height: relative;
-  width: relative;
+  height: auto;
+  width: 100%;
 }
 
 body.light .work-img {
